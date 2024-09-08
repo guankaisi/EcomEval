@@ -1,0 +1,9 @@
+vllm==0.5.1
+tqdm
+jieba
+nltk
+rouge_chinese
+transformers==4.33.2
+tokenizers==0.13.3
+torch==2.3.0
+numpy
