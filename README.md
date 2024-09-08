@@ -2,13 +2,10 @@
 
 ## 📃Table of Contents
 
-How to build EcomEval
-
-How to use EcomEval
-
-Related Works
-
-Citation
+- How to build EcomEval
+- How to use EcomEval
+- Related Works
+- Citation
 
 ## 🛠 How to build EcomEval
 
