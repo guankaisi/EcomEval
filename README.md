@@ -2,13 +2,13 @@
 
 ## 📃Table of Contents
 
-[How to build EcomEval](🛠 How to build EcomEval)
+How to build EcomEval
 
-[How to use EcomEval](## 🔍How to use EcomEval)
+How to use EcomEval
 
-[Related Works](#Related Works)
+Related Works
 
-[Citation](#Citation)
+Citation
 
 ## 🛠 How to build EcomEval
 
